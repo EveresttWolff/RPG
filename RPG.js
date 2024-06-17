@@ -184,7 +184,7 @@ function battleFinalBoss() {
     if (player.hp <= 0) {
         console.log("Você morreu. O Dark Lord venceu.");
     } else if (finalBoss.hp <= 0) {
-        console.log("Você derrotou o Lorde das Trevas! Você é vitorioso!");
+        console.log("Você derrotou o Dark Lord! Você é vitorioso!");
     }
 }
 
